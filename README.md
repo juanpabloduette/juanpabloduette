@@ -5,8 +5,9 @@ Hi 🙋 I'm Juan from Buenos Aires, Argentina, and love to do everytihng related
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanpabloduette@gmail.com)
 
 ### ✔️ I'm currently learning
-- JavaScript(https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-- ReactJS(https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
 
 ### 👩‍💻 I'm working on
 - Building projects and my portfolio website. 
@@ -14,7 +15,7 @@ Hi 🙋 I'm Juan from Buenos Aires, Argentina, and love to do everytihng related
 ### 🛠️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
