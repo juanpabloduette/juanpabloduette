@@ -6,7 +6,7 @@ Hi 🙋 I'm Juan from Buenos Aires, Argentina, and love to do everytihng related
 
 ### ✔️ I'm currently learning
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![JavaScript](https://img.shields.io/badge/-react-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
 
 ### 👩‍💻 I'm working on
