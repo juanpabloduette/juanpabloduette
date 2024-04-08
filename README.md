@@ -7,7 +7,6 @@ Hi 🙋 I'm Juan from Buenos Aires, Argentina, and love to do everything related
 ### ✔️ I'm currently learning
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
 
 ### 👩‍💻 I'm working on
 - Building projects and my portfolio website. 
@@ -16,7 +15,6 @@ Hi 🙋 I'm Juan from Buenos Aires, Argentina, and love to do everything related
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
