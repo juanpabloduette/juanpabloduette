@@ -23,6 +23,7 @@ Hi 🙋 I'm Juan from Buenos Aires, Argentina, and love to do everything related
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Php](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
+![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=mysql)
 
 
 
