@@ -14,7 +14,7 @@ Hi 🙋 I'm Juan from Buenos Aires, Argentina, and love to do everything related
 ### 🛠️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![JavaScript](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
@@ -22,9 +22,11 @@ Hi 🙋 I'm Juan from Buenos Aires, Argentina, and love to do everything related
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=mysql)
-![Php](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
-![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=mysql)
+![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=mysql)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Google Sheets API](https://img.shields.io/badge/-Google_Sheets_API-black?style=flat-square&logo=google)
+
 
 
 
